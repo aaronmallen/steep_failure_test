@@ -27,3 +27,8 @@
 #
 #   # library "pathname"              # Standard libraries
 # end
+
+target :lib do
+  signature "sig"
+  check "lib"
+end
