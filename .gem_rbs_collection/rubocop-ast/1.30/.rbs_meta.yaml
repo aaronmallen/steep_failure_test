@@ -1,0 +1,9 @@
+---
+name: rubocop-ast
+version: '1.30'
+source:
+  type: git
+  name: ruby/gem_rbs_collection
+  revision: b438fcecafb7fe0faad88c2bf3b8eec17d83e4d9
+  remote: https://github.com/ruby/gem_rbs_collection.git
+  repo_dir: gems
